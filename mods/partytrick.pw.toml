@@ -1,0 +1,13 @@
+name = "Party Trick"
+filename = "partytrick-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z0sLxGFj/versions/5sssCuqV/partytrick-3.0.1.jar"
+hash-format = "sha512"
+hash = "89b6ccbe4bdc434ba7a836364a11c69c93a32b4ef57cad1e7b449f609c3fa866d5c50fdf2152e40f8ca6ffcca762469ac257a50894f9dd863fdc2c4280e0e767"
+
+[update]
+[update.modrinth]
+mod-id = "z0sLxGFj"
+version = "5sssCuqV"

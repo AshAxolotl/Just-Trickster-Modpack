@@ -21,6 +21,11 @@ hash = "4ed0328f3789ce169f8a338f2889f47ebb3b2de44dc9a3fe5934ddf2f4141179"
 metafile = true
 
 [[files]]
+file = "mods/illusionist.pw.toml"
+hash = "1f8cd3cbc0c837c957dd24bcab07888593cea0bc5d12ad65d7991a0d1e6e7b8d"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
@@ -36,8 +41,18 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
+file = "mods/partytrick.pw.toml"
+hash = "f4c70c6c9105435e6100b6c1844b382a1a5003f3284821cb98c17569844b8654"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/trickster-math-tricks.pw.toml"
+hash = "3b787f6e9ab500cc6037b3dfeeb9830d765c3d976e9cb37b02c0c75ae899f08c"
 metafile = true
 
 [[files]]
