@@ -1,0 +1,13 @@
+name = "A Trickster Modpack"
+author = "AshAxolotl"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a196c849afd5a077c65f7f3bc68719526d79a7ce8c26499377e701a23f871296"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
