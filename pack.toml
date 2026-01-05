@@ -1,13 +1,13 @@
-name = "A Trickster Modpack"
-description = "Modpack for trying out trickster or for using as a base to make your own pack with trickster"
+name = "\"Just Trickster\""
 author = "AshAxolotl"
-version = "1.0.1"
+version = "1.0.2"
+description = "Modpack for trying out Trickster or for using as a base to make your own pack with Trickster."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b2561fcd82737fdac699b28ef2f5e1b61d6d6e2ec2f9f2b70a28ca2f08ae451a"
+hash = "008b8484eef1fdc8e73bc74c294eeb52af84837c7281f72bf9fa43497f983997"
 
 [versions]
 fabric = "0.18.4"

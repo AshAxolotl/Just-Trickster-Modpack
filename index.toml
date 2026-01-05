@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "4869441dabda853f7f71848c5f369a3fb90aaf5b53e5db6f70e4a09b26745dd0"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "ed79add649e0eeb5813ad948884292a353219faa5e84b927d8e4d1c22aac0ed6"
 
@@ -19,6 +23,10 @@ hash = "32dc3ac1fa365cdb995745924a850b8f36c11621e092d305ded2cb780dad7f0f"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "94b2f1aa6e36b9c168a29f02469fe485f1e1100d44df242b45c79b7416d9dc5b"
+
+[[files]]
+file = "icon.png"
+hash = "d64a93e6bf913b68b4caef88cf5590b540899d23399b52a32179942aa6a0126a"
 
 [[files]]
 file = "mods/accessories.pw.toml"
