@@ -1,0 +1,13 @@
+name = "Coleus"
+filename = "coleus-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RxFR6Bi3/versions/Cd8AquR4/coleus-1.2.2.jar"
+hash-format = "sha512"
+hash = "d542420b062f34c21f85dd43a605807d3a4894f87082e1a1d4c39ecdb2011318943910559f145232bbe146f1a2d0ed30fddfbb99d0b2c1f05cb72d7a83de6a7e"
+
+[update]
+[update.modrinth]
+mod-id = "RxFR6Bi3"
+version = "Cd8AquR4"
